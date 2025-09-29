@@ -39,4 +39,4 @@ I made this in my spare time, and it's hosted on GitHub (which means I don't hav
 
 ## 1A2B Game
 The 1A2B game is homemade! You can play it.
-1A2B game uses GPL-3.0 license
+1A2B game uses [GPL-3.0 license.]()
